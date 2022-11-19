@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MADpractical10_20012011136</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
