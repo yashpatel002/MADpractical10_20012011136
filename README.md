@@ -7,7 +7,7 @@ Create an application to create JSON URL for Contact which have field(id, Name(F
 
 ![studio](https://user-images.githubusercontent.com/110655668/202840932-2db6f918-9afe-454b-97b1-90f8734d1cf8.png)
 
-![light1](https://user-images.githubusercontent.com/110655668/202840938-6d359671-9626-4ef2-9242-e09f69b60c16.png)
-![map](https://user-images.githubusercontent.com/110655668/202840944-9af6d799-ed34-4ef9-b950-f78770a74764.png)
-![dark1](https://user-images.githubusercontent.com/110655668/202840946-d1bab135-e2c2-4de0-b9ef-71f813cf944a.png)
-![dark2](https://user-images.githubusercontent.com/110655668/202840953-84d1f5ce-400d-44ba-83ee-0dbd4811fcef.png)
+![light1 (Small)](https://user-images.githubusercontent.com/110655668/202840991-6a5e0b9c-f7f0-4996-aa8c-7eb7337cab27.png)
+![map (Small)](https://user-images.githubusercontent.com/110655668/202840995-f387359c-1efe-4cde-8943-dd23ca7dbabb.png)
+![dark1 (Small)](https://user-images.githubusercontent.com/110655668/202840997-16313b85-6ef9-409f-9abd-2697be211a57.png)
+![dark2 (Small)](https://user-images.githubusercontent.com/110655668/202840998-8f74207d-21f3-4c46-841f-e088dee5cea0.png)
